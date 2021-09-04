@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+
+button {
+    font-size: 40px;
+    background-color:lightslategray;
+    width: 77px;
+    height: 51px;
+    border-radius: 15px;
+}
+
+input {
+    height: 42px;
+    font-size: 23px;
+    border-radius: 15px;
+    font-size: 26px;
+}
+.calculator{
+    display: inline-block;
+    background-color: gray;
+}
+h1{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
